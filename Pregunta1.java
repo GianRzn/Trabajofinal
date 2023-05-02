@@ -14,6 +14,7 @@ public class Pregunta1 {
         double sumaEdadN = 0;
         int totalPruebas = 0;
         String genero;
+        //TRABAJO FINAL//
 
         while (continuar){
             System.out.println("Ingrese los resultados de las pruebas (P/N). Ingrese X cuando termine la atención del día.");
